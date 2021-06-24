@@ -45,7 +45,7 @@ export default createGlobalStyle`
 
     footer {
         position:absolute;
-        margin-top: 300px;
+        margin-top: 500px;
         display: block;
         width: 100%;
       }
@@ -60,7 +60,7 @@ export default createGlobalStyle`
       }
 
       @media (max-height:880px){
-        footer { margin-top: 400px; }
+        footer { margin-top: 600px; }
     }
 
 `;
