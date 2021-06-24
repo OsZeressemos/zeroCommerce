@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "marcosbarker",
+      "name": "Marcos Paulo Marques Corrêa ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57602117?v=4",
+      "profile": "http://linktr.ee/marcos_barker",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "zeroCommerce",
+  "projectOwner": "OsZeressemos",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
