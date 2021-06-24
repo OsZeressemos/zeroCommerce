@@ -92,9 +92,9 @@ const ControleProduto = () => {
         },
     });
 
-    /* function rand() {
+    function rand() {
         return Math.round(Math.random() * 20) - 10;
-    } */
+    }
 
    /*  function getModalStyle() {
         const top = 50 + rand();
@@ -197,9 +197,9 @@ const ControleProduto = () => {
 
     }
 
-/*     function handleBlur(event) {
+    function handleBlur(event) {
         this.setState({ msg: event.target.value });
-    } */
+    }
 
     return (
         <>

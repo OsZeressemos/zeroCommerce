@@ -93,7 +93,7 @@ const Produtos = () => {
                     <Title>
                         <h1>Produtos</h1>
                         <label>Filtrar</label>
-                        <input value={ProdutoFiltrado} onChange={e => setProdutoFiltrado(e.target.value)} type="text" placeholder="Digite o nome ou preço" />
+                        <input value={ProdutoFiltrado} onChange={e => setProdutoFiltrado(e.target.value)} type="text" placeholder="Digite o nome do produto" />
                     </Title>
                     <Produto>
                         {Produtos.map((produto) => {
@@ -217,5 +217,20 @@ const Produtos = () => {
         </div>        
     </Content>
     )
+    
+
+  return (
+    <footer className="footer">
+      <div className="footer__social">
+        <a href="https://www.instagram.com/speak.up.tech/">
+
+        </a>
+        <a href="https://www.youtube.com/c/SpeakupTech">
+
+        </a>  
+      </div>
+      <p className="footer__copyright">Made with by  Speak up Tech</p>
+    </footer>
+  )
 }
 export default Produtos;
