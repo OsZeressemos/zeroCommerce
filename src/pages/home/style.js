@@ -6,18 +6,21 @@ export const Produto = styled.div`
     max-width: 900px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr; 
-    gap: 20px; 
+    gap: 20px;
     
+
     div{
         background-color: #F0F8FF;
         padding: 5px;
         border-radius: 8px;
         position: relative;
+        
 
         .cards1{
             display: block;
             text-align: center;
             max-width:250px;
+            margin-bottom:70px;
             height: 260px;
             
             h6{
