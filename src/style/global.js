@@ -43,4 +43,24 @@ export default createGlobalStyle`
         padding: 40px  20px;
     }
 
+    footer {
+        position:absolute;
+        margin-top: 300px;
+        display: block;
+        width: 100%;
+      }
+      
+      footer div a i img {
+        width: 40px;
+        border-radius: 5px;
+      }
+      
+      footer div a {
+        color: transparent;
+      }
+
+      @media (max-height:880px){
+        footer { margin-top: 400px; }
+    }
+
 `;

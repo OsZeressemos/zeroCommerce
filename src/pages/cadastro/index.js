@@ -46,10 +46,10 @@ const Cadastro = () => {
                     <input type="text" id="nome" value={novoNomeCliente} onChange={e => setNovoNomeCliente(e.target.value)} placeholder="Digite o seu nome" autoComplete="off"/>
                     <br/>
                     <label id="cpf">CPF</label>
-                    <input type="text" id="cpf" value={novoCpf} onChange={e => setNovoCpf(e.target.value)} placeholder="Digite o seu CPF de 11 dígitos" autoComplete="off" maxlength="11"/>
+                    <input type="text" id="cpf" value={novoCpf} onChange={e => setNovoCpf(e.target.value)} placeholder="Digite o seu CPF(somente números)" autoComplete="off" maxlength="11"/>
                     <br/>
                     <label id="email">E-mail</label>
-                    <input type="text" id="email" value={novoEmail} onChange={e => setNovoEmail(e.target.value)} placeholder="digite o seu endereço de e-mail" autoComplete="off"/>
+                    <input type="text" id="email" value={novoEmail} onChange={e => setNovoEmail(e.target.value)} placeholder="Digite o seu e-mail" autoComplete="off"/>
                     <br/>
                     <label id="usuario">Usuario</label>
                     <input type="text" id="usuario" value={novoUsuario} onChange={e => setNovoUsuario(e.target.value)} placeholder="Nome de usuário" autoComplete="off"/>

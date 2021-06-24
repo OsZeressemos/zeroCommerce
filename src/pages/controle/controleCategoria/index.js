@@ -78,17 +78,17 @@ const ControleCategoria = () => {
         };
     } */
 
-    const use_styles_model = make_styles((theme) => ({
-        paper: {
-            position: 'absolute',
-            width: 400,
-            background_color: theme.palette.background.paper,
-            border: '2px solid #000',
-            box_shadow: theme.shadows[5],
-            padding: theme.spacing(2, 4, 3),
-        },
-    }));
-    //const classesModel = useStylesModel();
+    // const use_styles_model = make_styles((theme) => ({
+    //     paper: {
+    //         position: 'absolute',
+    //         width: 400,
+    //         background_color: theme.palette.background.paper,
+    //         border: '2px solid #000',
+    //         box_shadow: theme.shadows[5],
+    //         padding: theme.spacing(2, 4, 3),
+    //     },
+    // }));
+    // //const classesModel = useStylesModel();
     const classes = useStyles();
 
 
