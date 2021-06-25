@@ -9,7 +9,7 @@ export default createGlobalStyle`
     }
 
     body{
-        background-image: linear-gradient(to right, rgb(230, 218, 218),rgb(239, 187, 230), rgba(153, 218, 255, 0.822),rgba(255, 254, 168, 0.822)80%);
+        background: linear-gradient(to right, rgb(230, 218, 218),rgb(239, 187, 230), rgba(153, 218, 255, 0.822),rgba(255, 254, 168, 0.822)80%);
     }
 
     html,body, #root{
@@ -42,10 +42,9 @@ export default createGlobalStyle`
         margin: 0 auto;
         padding: 40px  20px;
     }
-
     footer {
-        position:absolute;
-        margin-top: 500px;
+        position:relative;
+        margin-top: 1000px;
         display: block;
         width: 100%;
       }
@@ -57,10 +56,5 @@ export default createGlobalStyle`
       
       footer div a {
         color: transparent;
-      }
-
-      @media (max-height:880px){
-        footer { margin-top: 600px; }
-    }
-
+    
 `;
