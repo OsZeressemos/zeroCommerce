@@ -5,17 +5,16 @@ import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography'
 import Button from '@material-ui/core/Button';
 import IconButton from '@material-ui/core/IconButton';
-import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import Modal from '@material-ui/core/Modal';
 import Login from '../../pages/Login';
 import { BotaoNav } from './style';
 import { BarraNav } from './style';
 import {FaUserCircle} from 'react-icons/fa'
 import createHistory from 'history/createBrowserHistory'
-import { FiShoppingCart } from "react-icons/fi";
-import { green } from '@material-ui/core/colors';
 import SvgIcon from '@material-ui/core/SvgIcon';
-//import { GiAvocado } from "@react-icons/all-files/gi";
+import { AiTwotoneShop } from 'react-icons/ai';
+import { TiShoppingCart } from 'react-icons/ti';
+
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -43,11 +42,11 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 
-/* function rand() {
+function rand() {
   return Math.round(Math.random() * 20) - 10;
-} */
+} 
 
-/* function getModalStyle() {
+function getModalStyle() {
   const top = 50 + rand();
   const left = 50 + rand();
 
@@ -56,7 +55,7 @@ const useStyles = makeStyles((theme) => ({
     left: `${left}%`,
     transform: `translate(-${top}%, -${left}%)`,
   };
-} */
+}
 
 function ButtonAppBar() {
   const history = createHistory();
@@ -114,6 +113,7 @@ function ButtonAppBar() {
         
         <Toolbar>          
         
+          <AiTwotoneShop/>
           <Button variant="outlined" color="inherit" href="/">ZeroCommerce</Button>
         
           <Typography style={{ flex: 1 }} />
@@ -136,7 +136,7 @@ function ButtonAppBar() {
           }
           </BotaoNav>
           <Button color="inherit" onClick={e => LogOut() }>Sair</Button>
-          <IconButton href="/carrinho" style={{textDecoration:"none", color: "#fff"}} color="#primary" aria-label="add to shopping cart"><AddShoppingCartIcon size={24}/></IconButton>
+          <IconButton href="/carrinho" style={{textDecoration:"none", color: "#fff"}} color="#primary" aria-label="add to shopping cart"><TiShoppingCart size={24}/></IconButton>
         </Toolbar>
       </AppBar>
       </BarraNav>    
@@ -149,6 +149,7 @@ function ButtonAppBar() {
       </div>
       </div>
   );
+    
 }
 
 export default ButtonAppBar;

@@ -9,7 +9,7 @@ export default createGlobalStyle`
     }
 
     body{
-        background-image: linear-gradient(to right, rgb(230, 218, 218),rgb(239, 187, 230), rgba(153, 218, 255, 0.822),rgba(255, 254, 168, 0.822)80%);
+        background-color: #9370DB;
     }
 
     html,body, #root{
@@ -42,5 +42,19 @@ export default createGlobalStyle`
         margin: 0 auto;
         padding: 40px  20px;
     }
-
+    footer {
+        position:relative;
+        margin-top: 1000px;
+        display: block;
+        width: 100%;
+      }
+      
+      footer div a i img {
+        width: 40px;
+        border-radius: 5px;
+      }
+      
+      footer div a {
+        color: transparent;
+    
 `;

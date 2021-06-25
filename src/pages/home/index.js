@@ -93,7 +93,7 @@ const Produtos = () => {
                     <Title>
                         <h1>Produtos</h1>
                         <label>Filtrar</label>
-                        <input value={ProdutoFiltrado} onChange={e => setProdutoFiltrado(e.target.value)} type="text" placeholder="Digite o nome ou preço" />
+                        <input value={ProdutoFiltrado} onChange={e => setProdutoFiltrado(e.target.value)} type="text" placeholder="Digite o nome do produto" />
                     </Title>
                     <Produto>
                         {Produtos.map((produto) => {
@@ -217,5 +217,6 @@ const Produtos = () => {
         </div>        
     </Content>
     )
+    
 }
 export default Produtos;
