@@ -9,7 +9,7 @@ export default createGlobalStyle`
     }
 
     body{
-        background: linear-gradient(to right, rgb(230, 218, 218),rgb(239, 187, 230), rgba(153, 218, 255, 0.822),rgba(255, 254, 168, 0.822)80%);
+        background-color: #9370DB;
     }
 
     html,body, #root{
