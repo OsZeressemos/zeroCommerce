@@ -16,6 +16,19 @@
         "doc",
         "tool"
       ]
+    },
+    {
+      "login": "M4G1Ck",
+      "name": "Gabriel Macedo Araújo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79328112?v=4",
+      "profile": "https://www.linkedin.com/in/gabriel-macedo-ara%C3%BAjo-951603165/",
+      "contributions": [
+        "code",
+        "design",
+        "ideas",
+        "maintenance",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
