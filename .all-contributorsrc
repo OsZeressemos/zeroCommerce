@@ -40,6 +40,20 @@
         "a11y",
         "data"
       ]
+    },
+    {
+      "login": "FredericoStilpen",
+      "name": "FredericoStilpen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82114348?v=4",
+      "profile": "https://github.com/FredericoStilpen",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "test",
+        "tutorial",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
