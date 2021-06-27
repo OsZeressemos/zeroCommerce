@@ -35,6 +35,7 @@
 * Funcionário:
   - nome: Antonio Elias Barbosa
   - senha(CPF): 88955429088
+###### *Para outros usuários e funcionários, consultar API.* 
 
 ## 🍃    API Consumida
  * [**ZeroCommerceAPI**](https://api-zerocommerce.herokuapp.com/)    (*Usar endpoint*)
