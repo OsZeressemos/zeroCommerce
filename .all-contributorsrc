@@ -14,7 +14,8 @@
         "bug",
         "code",
         "doc",
-        "tool"
+        "tool",
+        "infra"
       ]
     },
     {
