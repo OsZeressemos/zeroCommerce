@@ -20,8 +20,10 @@
 
 ![](./public/assets/gif/visaoGeral.gif)
 
-<img height="201px" src="./public/assets/gif/loginCliente.gif">&nbsp;&nbsp;<img height="201px" src="./public/assets/gif/loginFuncionario.gif">
-<br> 
+<div align="center">
+<img height="201px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="201px" src="./public/assets/gif/loginFuncionario.gif">
+</div>
+  <br> 
 
 ## 🛍️    Projeto Final
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)
