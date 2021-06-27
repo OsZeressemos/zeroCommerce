@@ -21,7 +21,7 @@
 ![](./public/assets/gif/visaoGeral.gif)
 
 <div align="center">
-<img height="195px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="195px" src="./public/assets/gif/loginFuncionario.gif">
+<img height="190px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="190px" src="./public/assets/gif/loginFuncionario.gif">
 </div>
 <br> 
 
