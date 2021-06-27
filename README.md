@@ -18,10 +18,10 @@
   </p> 
   </br>
 
-
+![](./public/assets/gif/visaoGeral.gif)
 
 <div align="center">
-<img height="190px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="190px" src="./public/assets/gif/loginFuncionario.gif">
+<img height="180px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="180px" src="./public/assets/gif/loginFuncionario.gif">
 </div>
 <br> 
 
