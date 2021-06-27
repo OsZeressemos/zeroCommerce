@@ -18,9 +18,23 @@
   </p> 
   </br>
 
+![](./public/assets/gif/visaoGeral.gif)
+
+<img height="200px" align="center" src="./public/assets/gif/loginCliente.gif">
+<img height="200px" align="center" src="./public/assets/gif/loginFuncionario.gif">
+<br> 
+
 ## 🛍️    Projeto Final
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)
  * [**Site**](https://zerocommerce-web.herokuapp.com/)
+
+#### Usuários teste
+* Cliente:
+  - email: ester@email.com
+  - senha(CPF): 60530582031
+* Funcionário:
+  - nome: Antonio Elias Barbosa
+  - senha(CPF): 88955429088
 
 ## 🍃    API Consumida
  * [**ZeroCommerceAPI**](https://api-zerocommerce.herokuapp.com/)    (*Usar endpoint*)
