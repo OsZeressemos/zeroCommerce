@@ -73,7 +73,7 @@ const Login = () => {
         <HomePage>
             <div>
                 <input type="text" placeholder="Digite seu email" autoComplete="off" onChange={e => setUsuario(e.target.value)}></input>
-                <input type="password" placeholder="Digite sua senha" autoComplete="off" onChange={e => setSenha(e.target.value)}></input>
+                <input type="password" placeholder="Digite sua senha (CPF)" autoComplete="off" onChange={e => setSenha(e.target.value)}></input>
                 {erro && 
                     <span>{erro}</span> }
                 <button type="button" onClick={e => logar()}>Entrar</button>
