@@ -15,7 +15,8 @@
         "code",
         "doc",
         "tool",
-        "infra"
+        "infra",
+        "userTesting"
       ]
     },
     {
