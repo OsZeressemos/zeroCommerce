@@ -16,16 +16,15 @@
     Só a Zero te satisfaz e te leva pra trás.
     </h2>
   </p> 
+  </br>
 
 ## 🛍️    Projeto Final
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)
  * [**Site**](https://zerocommerce-web.herokuapp.com/)
-<br>
 
 ## 🍃    API Consumida
  * [**ZeroCommerceAPI**](https://api-zerocommerce.herokuapp.com/)    (*Usar endpoint*)
  * [**Documentação Swagger**](https://api-zerocommerce.herokuapp.com/swagger-ui.html)
-<br> 
 
 ## <img height="45px" align="center" src="./public/assets/readme/stockrocketgif.gif">    Tecnologia Utilizada
 - [**Axios**](https://www.npmjs.com/package/react-axios)    [(*Documentação*)](https://www.npmjs.com/package/react-axios)
@@ -43,9 +42,10 @@
 <div align="center">
 Sambando na cara das inimigas desde 2021
 </div>
-<p align="center">
+</br>
+<div align="center">
   <img height="400px" src="./public/assets/readme/osZeressemosProTeam.png"> 
-</p>
+</div>
 
 ## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
