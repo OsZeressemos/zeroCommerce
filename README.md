@@ -21,9 +21,9 @@
 ![](./public/assets/gif/visaoGeral.gif)
 
 <div align="center">
-<img height="201px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="201px" src="./public/assets/gif/loginFuncionario.gif">
+<img height="200px" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="200px" src="./public/assets/gif/loginFuncionario.gif">
 </div>
-  <br> 
+<br> 
 
 ## 🛍️    Projeto Final
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)
