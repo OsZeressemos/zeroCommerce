@@ -1,9 +1,25 @@
-# zero
+![](./public/assets/readme/top-logo-readme.jpg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-## Contributors ✨
+<p align="center">
+<i><h5>Projeto feito pelo grupo Zeréssimos como requisito parcial da disciplina Desenvolvimento Web, da Residência de Software do Serratec.</h5></i>
+</p>
 
+## <img height="80px" align="center" src="./public/LOGO.png">Projeto Final
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)
+ * [**Site**](https://zerocommerce-web.herokuapp.com/)
+
+## API Consumida
+ * [**ZeroCommerceAPI**](https://api-zerocommerce.herokuapp.com/)    (*Usar endpoint*)
+ * [**Documentação Swagger**](https://api-zerocommerce.herokuapp.com/swagger-ui.html)
+<br> 
+
+<p align="center">
+  <img height="400px" src="./public/assets/readme/osZeressemosProTeam.png"> 
+</p>
+
+## Contributors ✨
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
