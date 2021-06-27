@@ -1,20 +1,48 @@
+<div align="center">
+<i><h6>Projeto feito pelo grupo Zeréssimos como requisito parcial da disciplina Desenvolvimento Web, da Residência de Software do Serratec.</h6></i>
+</div>
+
 ![](./public/assets/readme/top-logo-readme.jpg)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+<!--[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)-->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-<p align="center">
-<i><h5>Projeto feito pelo grupo Zeréssimos como requisito parcial da disciplina Desenvolvimento Web, da Residência de Software do Serratec.</h5></i>
-</p>
+  <p>
+    <h3  align="center">
+    Compre, compre e compre mais um pouco, aqui na ZeressemosCompany você encontra os melhores produtos das piores marcas.
+    </h3>
+  </p>
+  <p>
+    <h2 align="center">
+    Só a Zero te satisfaz e te leva pra trás.
+    </h2>
+  </p> 
 
-## <img height="80px" align="center" src="./public/LOGO.png">Projeto Final
+## 🛍️    Projeto Final
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)
  * [**Site**](https://zerocommerce-web.herokuapp.com/)
+<br>
 
-## API Consumida
+## 🍃    API Consumida
  * [**ZeroCommerceAPI**](https://api-zerocommerce.herokuapp.com/)    (*Usar endpoint*)
  * [**Documentação Swagger**](https://api-zerocommerce.herokuapp.com/swagger-ui.html)
 <br> 
 
+## <img height="45px" align="center" src="./public/assets/readme/stockrocketgif.gif">    Tecnologia Utilizada
+- [**Axios**](https://www.npmjs.com/package/react-axios)    [(*Documentação*)](https://www.npmjs.com/package/react-axios)
+- [**CSS**](https://www.w3.org/Style/CSS/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [**HTML5**](https://html.spec.whatwg.org/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [**JavaScript**](https://www.javascript.com/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [**npm**](https://www.npmjs.com/)    [(*Documentação*)](https://docs.npmjs.com/)
+- [**React**](https://pt-br.reactjs.org/)    [*(Documentação)*](https://pt-br.reactjs.org/docs/getting-started.html)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [**TypeScript**](https://www.typescriptlang.org/)    [*(Documentação)*](https://www.typescriptlang.org/docs/)
+- [**Visual Studio Code**](https://code.visualstudio.com/)    [*(Documentação)*](https://code.visualstudio.com/docs)
+<br> 
+<div align="center">
+© 2021 Copyright: zeressemos.com
+</div>
+<div align="center">
+Sambando na cara das inimigas desde 2021
+</div>
 <p align="center">
   <img height="400px" src="./public/assets/readme/osZeressemosProTeam.png"> 
 </p>
