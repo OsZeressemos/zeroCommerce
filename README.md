@@ -20,7 +20,7 @@
 
 ![](./public/assets/gif/visaoGeral.gif)
 
-<img height="215px" align="center" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="215px" align="center" src="./public/assets/gif/loginFuncionario.gif">
+<img height="210px" align="center" src="./public/assets/gif/loginCliente.gif">&nbsp;<img height="210px" align="center" src="./public/assets/gif/loginFuncionario.gif">
 <br> 
 
 ## 🛍️    Projeto Final
