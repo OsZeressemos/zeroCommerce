@@ -17,7 +17,6 @@ import Typography from '@material-ui/core/Typography';
 import { FcCheckmark, FcHome } from "react-icons/fc";
 import { FiTruck } from "react-icons/fi";
 
-
 const Sucesso = () => {
     const history = useHistory();
 
@@ -93,13 +92,13 @@ const useStyles = makeStyles((theme) => ({
               <Typography variant="h6" component="h1">
                 Endereço de Entrega
               </Typography>
-              <Typography><p>"Rua dos Bobos", 0</p>
+              <Typography><p>"Avenida Florestal", 0</p>
                 
                 <p>complemento: "",</p>
-                <p>bairro: "Castanheira",</p>
-                <p>cidade: "Metropolis",</p>
-                <p>estado: "SP",</p>
-                <p>cep: "23451234"</p></Typography>
+                <p>bairro: "Jardins",</p>
+                <p>cidade: "Aracruz",</p>
+                <p>estado: "ES",</p>
+                <p>cep: "29190380"</p></Typography>
             </Paper>
           </TimelineContent>
         </TimelineItem>
