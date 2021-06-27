@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://linktr.ee/marcos_barker"><img src="https://avatars.githubusercontent.com/u/57602117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcos Paulo Marques Corrêa </b></sub></a><br /><a href="https://github.com/OsZeressemos/zeroCommerce/issues?q=author%3Amarcosbarker" title="Bug reports">🐛</a> <a href="https://github.com/OsZeressemos/zeroCommerce/commits?author=marcosbarker" title="Code">💻</a> <a href="https://github.com/OsZeressemos/zeroCommerce/commits?author=marcosbarker" title="Documentation">📖</a> <a href="#tool-marcosbarker" title="Tools">🔧</a></td>
+    <td align="center"><a href="http://linktr.ee/marcos_barker"><img src="https://avatars.githubusercontent.com/u/57602117?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcos Paulo Marques Corrêa </b></sub></a><br /><a href="https://github.com/OsZeressemos/zeroCommerce/issues?q=author%3Amarcosbarker" title="Bug reports">🐛</a> <a href="https://github.com/OsZeressemos/zeroCommerce/commits?author=marcosbarker" title="Code">💻</a> <a href="https://github.com/OsZeressemos/zeroCommerce/commits?author=marcosbarker" title="Documentation">📖</a> <a href="#tool-marcosbarker" title="Tools">🔧</a> <a href="#infra-marcosbarker" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
   </tr>
 </table>
 
